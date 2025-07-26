@@ -1,11 +1,4 @@
-Perfect — let’s **polish it with badges** like a professional open‑source project.
-
-Here’s your **final styled `README.md`** with badges:
-
----
-
-````markdown
-# 🛒 DEA E-Commerce Platform
+# 🛒 BLOOM Clothing E-Commerce Platform
 
 ![Node.js](https://img.shields.io/badge/Node.js-18+-green?logo=node.js)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14+-blue?logo=postgresql)
@@ -57,9 +50,8 @@ A secure, full-featured **e-commerce platform** built with **Node.js, Express, R
 ### Setup
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/NSBMFinalProjects/DEA-Ecommerce.git
-   cd DEA-Ecommerce
-````
+   git clone https://github.com/NSBMFinalProjects/BLOOMClothing.git
+   cd BLOOMClothing
 
 2. **Install dependencies**
 
@@ -73,7 +65,7 @@ A secure, full-featured **e-commerce platform** built with **Node.js, Express, R
    DB_HOST=your_db_host
    DB_USER=your_db_user
    DB_PASSWORD=your_db_password
-   DB_NAME=dea_ecommerce
+   DB_NAME=bloom_clothing
    JWT_SECRET=your_secret_key
    ```
 4. **Run migrations**
@@ -152,5 +144,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE)  fil
 ## 📞 Support
 
 For questions and support, please open an issue in the GitHub repository.
-
-```

@@ -4,7 +4,7 @@ plugins {
   id 'com.github.sahara3.tomcat-runner' version '0.3.0'
 }
 
-group 'nsbm.dea'
+group 'nsbm.bloom'
 version ''
 
 repositories {
